@@ -1,4 +1,9 @@
 {
   "version": "v19",
-  "resources": []
+  "resources": [],
+
+  "packageJsonOverride": {
+    "author": "Darek",
+    "description": "Description for http-server. Hello world!"
+  }
 }
